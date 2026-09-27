@@ -31,7 +31,7 @@ Video demonstrations illustrating both modes are hosted in our official release 
 
 * 📥 **[Download UI Panel Mode Tutorial (`With Panel`)](https://github.com/ApexAutomationTeam/influencers-club-site-scraper/releases/tag/v4.0.1)**
 * 📥 **[Download Fast API Mode Tutorial (`No Panel`)](https://github.com/ApexAutomationTeam/influencers-club-site-scraper/releases/tag/v4.0.1)**
-* 📦 **[View Official Release v4.0.1 Assets]([https://github.com/ApexAutomationTeam/Google-Maps-Scraper/releases/tag/v1.0.0](https://github.com/ApexAutomationTeam/influencers-club-site-scraper/releases/tag/v4.0.1))**
+* 📦 **[View Official Release v4.0.1 Assets](https://github.com/ApexAutomationTeam/influencers-club-site-scraper/releases/tag/v4.0.1)**
 
 ---
 
